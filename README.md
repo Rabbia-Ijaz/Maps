@@ -37,17 +37,18 @@ The City Maps app's user interface is entirely constructed programmatically in S
 1. Clone or download the project from this GitHub repository.
 
 2. Open the project in Xcode.
-3. open Maps/Maps/NetworkRequests/SpottApi.swift file and in place of "<add api key>" replace with the your api key you will get on [Spott API Access](https://rapidapi.com/Spott/api/spott/)
+   
+4. open Maps/Maps/NetworkRequests/SpottApi.swift file and in place of "<add api key>" replace with the your api key you will get on [Spott API Access](https://rapidapi.com/Spott/api/spott/)
 
-4. Build and run the app on your iOS device or simulator.
+5. Build and run the app on your iOS device or simulator.
 
-5. Enter a city name in the search bar and click the search button.
+6. Enter a city name in the search bar and click the search button.
 
-6. The app will display the city locations on the map with annotations.
+7. The app will display the city locations on the map with annotations.
 
-7. Click on a location to view city details, including name and population.
+8. Click on a location to view city details, including name and population.
 
-8. Click the "Details" button to see a detailed view of the selected location on the map along with additional information.
+9. Click the "Details" button to see a detailed view of the selected location on the map along with additional information.
 
 ## Technologies Used
 
