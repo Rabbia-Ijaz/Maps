@@ -1,6 +1,7 @@
 # Maps App
 
-![Maps Screenshot](https://user-images.githubusercontent.com/63001234/236641495-8be28eb9-cd3b-4914-8e91-0b3446dbf678.png)
+
+![Maps App Screenshot](https://user-images.githubusercontent.com/63001234/236641517-652fa68a-3877-4394-8e7f-747f76ac31dd.png)
 
 Maps is an iOS app that allows users to search for cities and view their locations on a map using MapKit. It integrates with the Spott API from Rapid API to retrieve city data, including city name, population, and more.
 
@@ -28,9 +29,10 @@ The City Maps app's user interface is entirely constructed programmatically in S
 - Autolayout and constraints are utilized to ensure the app's UI adapts to different device sizes and orientations.
 - The UI code is well-documented for easier maintenance and modification.
 
+## App Architecture
 
+![App Architecture](https://user-images.githubusercontent.com/63001234/236641495-8be28eb9-cd3b-4914-8e91-0b3446dbf678.png)
 
-![City Detail Screenshot](https://user-images.githubusercontent.com/63001234/236641517-652fa68a-3877-4394-8e7f-747f76ac31dd.png)
 
 ## How to Use
 
