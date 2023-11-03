@@ -55,7 +55,7 @@ class HomeScreenViewModel: NSObject {
         MapAPI.fetchData(text: text) { data in
             if let data = data {
                 self.parseDataIntoList(cities: data)
-//                self.cityList = self.cityList.filter({ $0.name!.hasPrefix(self.searchedText) })
+                self.cityList = self.cityList.filter({ $0.name!.hasPrefix(text) })
                 completion()
             }
             else {
