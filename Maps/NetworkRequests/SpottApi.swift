@@ -9,7 +9,7 @@ import Foundation
 
 class MapAPI:NSObject {
     let headers = [
-        "X-RapidAPI-Key": "<add api key>", // add your api key here
+        "X-RapidAPI-Key": "add api key", // add your api key here
         "X-RapidAPI-Host": "spott.p.rapidapi.com"
     ]
     

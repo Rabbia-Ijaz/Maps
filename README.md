@@ -40,7 +40,7 @@ The City Maps app's user interface is entirely constructed programmatically in S
 
 2. Open the project in Xcode.
    
-4. open Maps/Maps/NetworkRequests/SpottApi.swift file and in place of "<add api key>" replace with the your api key you will get on [Spott API Access](https://rapidapi.com/Spott/api/spott/)
+4. open Maps/Maps/NetworkRequests/SpottApi.swift file and in place of "add api key" replace with the your api key you will get on [Spott API Access](https://rapidapi.com/Spott/api/spott/)
 
 5. Build and run the app on your iOS device or simulator.
 
